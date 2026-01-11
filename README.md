@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/575804f5-64a1-4e5e-9cad-0a7560989658" />
+</p>
+
 # DISA STIGs for Windows 11
 
 ## What does DISA stand for and who are they?
