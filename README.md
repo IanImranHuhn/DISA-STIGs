@@ -7,6 +7,6 @@ The **Defense Information Systems Agency (DISA)** is a U.S. Department of Defens
 A **Security Technical Implementation Guide (STIG)** is a cybersecurity configuration standard developed by the *Defense Information Systems Agency (DISA)* to secure computer hardware and software. Functioning as a technical "how-to" manual, a STIG provides detailed checklists for "hardening" systems—such as disabling unnecessary services, enforcing strict password policies, and restricting network access—to reduce vulnerabilities to cyberattacks. While compliance is mandatory for any device connecting to U.S. Department of Defense networks, STIGs are widely used by other government agencies and private organizations as a gold standard for secure system configuration. In other words, further securing an already secured system.
 
 ## Implementaion example using **WN11-00-000031** STIG
-...1. Open Powershell as *Administrator*.
-...2. Navigate into the **WN11-00-000031** folder.
-...3. Run `.\WN11-00-000031.ps1`.
+1. Open Powershell as *Administrator*
+2. Navigate into the **WN11-00-000031** folder
+3. Run `.\WN11-00-000031.ps1`
