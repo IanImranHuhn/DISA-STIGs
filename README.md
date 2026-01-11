@@ -13,5 +13,5 @@ A **Security Technical Implementation Guide (STIG)** is a cybersecurity configur
 
 ## Implementaion example using STIG : WN11-00-000031
 1. Open Powershell as *Administrator*
-2. Navigate into the **WN11-00-000031** folder
+2. Navigate into the **DISA-STIGs-Windows11\WN11-00-000031** folder
 3. Run `.\WN11-00-000031.ps1`
